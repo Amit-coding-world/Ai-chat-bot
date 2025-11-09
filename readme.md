@@ -42,14 +42,9 @@ export const API_KEY = "YOUR_GEMINI_API_KEY";
 
 4. Serve the files using a local development server (required for ES modules):
 \`\`\`bash
-# Using Python
-python -m http.server 8000
 
-# Using Node.js
-npx serve
-\`\`\`
-
-5. Open \`http://localhost:8000\` in your browser.
+# deployment link:-
+5. Open `https://ai-chat-bot-nine-gamma.vercel.app/` in your browser.
 
 ## 🎯 Project Structure
 
